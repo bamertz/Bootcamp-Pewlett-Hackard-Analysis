@@ -11,7 +11,20 @@ The baby boomers are set to retire soon in a relatively short time frame. This m
 
 # Results
 
+### Deliverable 1: The Number of Retiring Employees by Title
+retirement_titles
+![retirement_titles](Resources/retirement_titles.png)
+
+retiring_titles
+![retiring_titles](Resources/retiring_titles.png)
+
+unique_titles
+![unique_titles](Resources/unique_titles.png)
+
+### Deliverable 2: The Employees Eligible for the Mentorship Program
 ![mentorship_eligibility](Resources/mentorship_eligibility.png)
+
+
 
 
 # Summary
