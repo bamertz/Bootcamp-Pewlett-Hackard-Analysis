@@ -11,6 +11,7 @@ The baby boomers are set to retire soon in a relatively short time frame. This m
 
 # Results
 
+![mentorship_eligibility](Resources/mentorship_eligibility.png)
 
 
 # Summary
