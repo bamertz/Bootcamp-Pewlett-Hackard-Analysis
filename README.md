@@ -19,12 +19,11 @@ The baby boomers are set to retire soon in a relatively short time frame. This m
 
 2. The list of retiring employees without duplicates returns 90,398 rows.
 
-![retiring_titles](Resources/retiring_titles.png)
+![unique_titles](Resources/unique_titles.png)
 
 3. The number of retiring employees grouped by title
 
-![unique_titles](Resources/unique_titles.png)
-
+![retiring_titles](Resources/retiring_titles.png)
 
 ### Deliverable 2: The Employees Eligible for the Mentorship Program
 
