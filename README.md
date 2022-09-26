@@ -37,10 +37,10 @@ The baby boomers are set to retire soon in a relatively short time frame. This m
 
 1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
-Up to 72,458 Employees can retire as the "silver tsunami" takes effect. 
+* Up to 72,458 Employees can retire as the "silver tsunami" takes effect. 
 
 2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-According to the mentorship eligibility table, there are 1539 Senior Engineers and 1545 Senior Staff who are available to for the mentorship program. 
+* According to the mentorship eligibility table, there are 1539 Senior Engineers and 1545 Senior Staff who are available to for the mentorship program. 
 
 * Note: Deliverable 3 is this ReadMe file.
